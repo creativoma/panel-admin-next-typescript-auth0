@@ -82,6 +82,8 @@ Esto iniciará el servidor de desarrollo y podrás acceder a la aplicación en t
 
 Puedes inplementar esta aplicación en la nube con [Vercel](https://vercel.com) siguiendo la documentación de Auth0 [aquí](https://developer.auth0.com/resources/guides/web-app/nextjs/vercel-deployment). Que contempla todos los pasos necesarios para configurar tu aplicación en Vercel y Auth0.
 
+Aquí: [panel-admin-next-typescript-auth0.vercel.app](https://panel-admin-next-typescript-auth0.vercel.app/)
+
 ## Enlaces a recursos y documentación
 Aquí hay algunos enlaces útiles para obtener más información sobre las tecnologías utilizadas en este proyecto:
 
